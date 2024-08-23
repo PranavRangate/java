@@ -148,5 +148,13 @@ public class Inheritance{
         s.s_get();
         s.cal_avg();
 
+      Employee e = new Employee();
+        e.setData();
+        e.getData();
+        e.Cal_Age();
+        e.s_data();
+        e.s_get();
+        e.tax_on_salary();
+
     }
 }
